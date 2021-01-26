@@ -1,0 +1,116 @@
+{
+    "gamelist": [
+        {
+            "id": "5fa1dbae-5f7d-11eb-ae93-0242ac130002",
+            "title": "Spider Man Miles Morales PS5",
+            "price": 59.99,
+            "released": true,
+            "image": "https://www.outerspace.com.br/wp-content/uploads/2020/10/spidermanmm3.jpg",
+            "description": "Spider-Man: Miles Morales is an action-adventure video game developed by Insomniac Games and published by Sony Interactive Entertainment for the PlayStation 4 and PlayStation 5."
+        },
+        {
+            "id": "5fa1dafa-5f7d-11eb-ae93-0242ac130002",
+            "title": "Demon's Souls PS5",
+            "price": 59.99,
+            "released": true,
+            "image": "https://www.outerspace.com.br/wp-content/uploads/2020/09/demonssouls-ps5-2.jpg",
+            "description": "Demon's Souls is an action RPG developed by Bluepoint Games, with assistance from Japan Studio, and published by Sony Interactive Entertainment. It is a remake of Demon's Souls, originally developed by FromSoftware and released for the PlayStation 3 in 2009."
+        },
+        {
+            "id": "5fa1da50-5f7d-11eb-ae93-0242ac130002",
+            "title": "Assassin's Creed Valhala PS5",
+            "price": 59.99,
+            "released": true,
+            "image": "https://i.ytimg.com/vi/hr6aEhU-KhI/maxresdefault.jpg",
+            "description": "Assassin's Creed Valhalla is an electronic game developed by Ubisoft Montreal and published by Ubisoft. The successor to Assassin's Creed Odyssey, is the twelfth main title and the twenty-second launch of the Assassin's Creed series was released on November 10, 2020 for Google Stadia, Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One and Xbox Series X. "
+        },
+        {
+            "id": "5fa1d99c-5f7d-11eb-ae93-0242ac130002",
+            "title": "Hitman 3 PS5",
+            "price": 59.99,
+            "released": true,
+            "image": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3032349:1610464858/Hitman-3.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=11dfb15",
+            "description": "Hitman 3 is an electronic stealth game developed and published by IO Interactive. It is the eighth main title in the Hitman series, a direct sequel to Hitman 2, the last in the World of Assassination trilogy."
+        },
+        {
+            "id": "5fa1d78a-5f7d-11eb-ae93-0242ac130002",
+            "title": "Immortals Fenyx Rising PS5",
+            "price": 59.99,
+            "released": true,
+            "image": "https://image.api.playstation.com/vulcan/ap/rnd/202009/0300/MqOjOCxySqOaAa1NAms5Gx6C.jpg",
+            "description": "Immortals Fenyx Rising is an action-adventure video game developed by Ubisoft Quebec and published by Ubisoft. The game was released for Amazon Luna, Windows, Nintendo Switch, PlayStation 4, PlayStation 5, Stadia, Xbox One and Xbox Series X and S on December 3, 2020."
+        },
+        {
+            "id": "5fa1d6e0-5f7d-11eb-ae93-0242ac130002",
+            "title": "Call of Duty: Cold War PS5",
+            "price": 59.99,
+            "released": true,
+            "image": "https://observatoriodegames.uol.com.br/wp-content/uploads/2020/08/cod-3.jpg",
+            "description": "Call of Duty: Black Ops Cold War is a first-person shooter developed by Treyarch and Raven Software and published by Activision. It is the sixth game in the Black Ops series, and the seventeenth game in the Call of Duty series in all."
+        },
+        {
+            "id": "5fa1d636-5f7d-11eb-ae93-0242ac130002",
+            "title": "Godfall PS5",
+            "price": 59.99,
+            "released": true,
+            "image": "https://i.ytimg.com/vi/5vX-257ns6g/maxresdefault.jpg",
+            "description": "Godfall is a future action RPG electronic game developed by Counterplay Games and published by Gearbox Publishing. The game will be released for PlayStation 5 and Microsoft Windows in late 2020; was the first game confirmed for release on PlayStation 5."
+        },
+        {
+            "id": "5fa1d582-5f7d-11eb-ae93-0242ac130002",
+            "title": "FIFA 21 PS5",
+            "price": 59.99,
+            "released": true,
+            "image": "https://s2.glbimg.com/6e0s00pcW5oM3uul9f5qL_eMDfs=/0x0:1847x1039/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2020/g/f/Q9xrbjReKv4ml0jRC7Cw/f21-mbappe-16x9.png",
+            "description": "FIFA 21 is a sports simulation video game developed by Electronic Arts and published by the same company. The game was announced on June 19, 2020. Kylian Mbappé is the new game icon this year. The game also has changes to the next generation game consoles."
+        },
+        {
+            "id": "5fa1d4d8-5f7d-11eb-ae93-0242ac130002",
+            "title": "Resident Evil 8 PS5",
+            "released": false,
+            "price": 59.99,
+            "image": "https://img.ibxk.com.br/2020/08/14/14130807876042.jpg",
+            "description": "Resident Evil Village, known in Japan as Biohazard: Village, is a future survival horror electronic game developed and published by Capcom. It's the sequel to 2017's Resident Evil 7: Biohazard, and was first announced at the PlayStation 5 reveal event on June 11, 2020."
+        },
+        {
+            "id": "5fa1d41a-5f7d-11eb-ae93-0242ac130002",
+            "title": "God of War Ragnarok",
+            "released": false,
+            "price": 59.99,
+            "image": "https://remoteplayent.com/wp-content/uploads/2020/09/60D12BBD-CBCE-4932-80CD-A2A681E662BA-1024x576.jpeg",
+            "description": "An untitled sequel to God of War is a future action-adventure video game developed by SIE Santa Monica Studio and published by Sony Interactive Entertainment. It is the ninth title in the God of War series and its release is scheduled for 2021 exclusively for PlayStation 5 and Playstation 4."
+        },
+        {
+            "id": "5fa1d0fa-5f7d-11eb-ae93-0242ac130002",
+            "title": "Sackboy: The Big Advendture",
+            "released": true,
+            "price": 49.99,
+            "image": "https://i.ytimg.com/vi/pxkFoyaUvXI/maxresdefault.jpg",
+            "description": "Big Adventure is a 2020 platform game developed by Sumo Digital and published by Sony Interactive Entertainment for PlayStation 5 and PlayStation 4. A spinoff of the LittleBigPlanet series, follows Sackboy and features 3D platform as opposed to 2.5D in previous entries."
+        },
+        {
+            "id": "5fa1d03c-5f7d-11eb-ae93-0242ac130002",
+            "title": "Bugsnax",
+            "released": true,
+            "price": 19.99,
+            "image": "https://i.ytimg.com/vi/1neEhMubpaY/maxresdefault.jpg",
+            "description": "Bugsnax is an adventure video game developed by the independent studio Young Horses. In the game, players explore a mysterious island and try to find and capture the namesake creatures half insect half snack."
+        },
+        {
+            "id": "5fa1cf4c-5f7d-11eb-ae93-0242ac130002",
+            "title": "Watch Dogs: Legion",
+            "released": true,
+            "price": 59.99,
+            "image": "https://tecnoblog.net/wp-content/uploads/2020/10/Watch_Dogs_Legion-1060x576.png",
+            "description": "Watch Dogs: Legion is an action-adventure video game set in an open world developed by Ubisoft Toronto and published by Ubisoft. It was released for Microsoft Windows, PlayStation 4, PlayStation 5, Xbox One, Xbox Series X and Google Stadia. It is the third title in the Watch Dogs series"
+        },
+        {
+            "id": "5fa1cd12-5f7d-11eb-ae93-0242ac130002",
+            "title": "Devil May Cry 5: Special Edition",
+            "released": true,
+            "price": 59.99,
+            "image": "https://jpimg.com.br/uploads/2018/06/devil-may-cry-5-1-1024x446.jpg",
+            "description": "Devil May Cry 5 is a hack and slash action-adventure video game developed and published by Capcom. It is the fifth main title in the Devil May Cry series and was released on March 8, 2019 for Microsoft Windows, PlayStation 4 and Xbox One."
+        }
+    ]
+}
