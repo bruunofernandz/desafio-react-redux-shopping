@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Como inicar o sistema
 
 Ao baixar o projeto execute o comando yarn para baixar todas as dependências.
 Estou utilizando um MOCK API com json-server, então você vai precisar executar
@@ -9,7 +9,7 @@ npx json-server --watch src/api/api.json --port 33333
 Assim o "servidor" irá começar a funcionar, então execute em outra aba do terminal
 yarn start para inicar a aplicação.
 
-## Available Scripts
+## Scripts Disponíveis
 
 In the project directory, you can run:
 
@@ -18,13 +18,10 @@ yarn start
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+A aplicação irá executar em:
+Abra [http://localhost:3000](http://localhost:3000) e veja no seu navegador.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-## Learn More
+## Sobre o desafio
 
 Desafio front-end
 O sistema deverá ser em React com redux.
